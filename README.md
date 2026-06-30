@@ -20,7 +20,7 @@ El proyecto es la solución oficial al desafío **"ONE AI for TECH" de Oracle y 
 * **Infraestructura:** OCI Compute Instance.
 
 ## 📂 Estructura del Directorio
-\`\`\`text
+```text
 ├── data/
 │   ├── raw/                 # Documentos crudos (PDFs, Excels, Word)
 │   └── processed/           # Textos limpios y vectorizados
@@ -31,7 +31,7 @@ El proyecto es la solución oficial al desafío **"ONE AI for TECH" de Oracle y 
 ├── app.py                   # Frontend en Streamlit y punto de entrada
 ├── requirements.txt
 └── README.md
-\`\`\`
+```
 
 ## 🚀 Despliegue en Oracle Cloud (Demostración)
 *(Nota: Aquí se insertará la imagen o GIF del agente corriendo en la IP pública de OCI una vez completada la fase final del desafío).*
